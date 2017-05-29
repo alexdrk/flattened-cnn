@@ -2,7 +2,7 @@ package = "cunnconv1d"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/jhjin/flattened-cnn.git",
+   url = "git://github.com/alexdrk/flattened-cnn.git",
 }
 
 description = {
