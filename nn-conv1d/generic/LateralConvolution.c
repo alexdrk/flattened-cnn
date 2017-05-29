@@ -1,7 +1,9 @@
 #ifndef TH_GENERIC_FILE
 #define TH_GENERIC_FILE "generic/LateralConvolution.c"
-#else
+// #include "generic/THTensor.h"
+// #include "generic/THVector.h"
 
+#else
 
 static int nnconv1d_(LateralConvolution_updateOutput)(lua_State *L)
 {
